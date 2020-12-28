@@ -1,5 +1,5 @@
 # S3 bucket name
-BUCKET=mogoal-db-backup
+BUCKET=db-backup
 
 # Linux user account
 USER=ec2-user
